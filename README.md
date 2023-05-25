@@ -17,4 +17,4 @@ Wherever I plonk the snippet, the comments widget shall appear. Or so I am told.
 
 ## Shoutout
 
-- @carlcassar - [Add Comments To Your Blog In Under Five Minutes](https://www.carlcassar.com/articles/add-comments-to-your-blog-in-under-five-minutes/)
+- [@carlcassar](https://github.com/carlcassar) - [Add Comments To Your Blog In Under Five Minutes](https://www.carlcassar.com/articles/add-comments-to-your-blog-in-under-five-minutes/)
